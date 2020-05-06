@@ -2,3 +2,6 @@
 # (try doing the same thing in the JS console and see what it outputs)
 
 # YOUR CODE HERE
+
+my_value = 2 ** 65536
+print(my_value)
